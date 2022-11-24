@@ -2,6 +2,7 @@
 
 ### **Introduction**
 
+gitbook：https://hoycdanny.gitbooks.io/opendds/content/
 
 OpenDDS是建立於 OMG Data Distribution Service (DDS) 的 Real-Time Systems V1.4(OMG 文件格式/2015-04-10) 和 Real-time Publish-Subscribe Wire Protocol DDS Interoperability Wire Protocol Specification(DDSI-RTPS) v2.2 (OMG Document formal/2014-09-01)。OpenDDS 是由 Object Computing, Inc. (OCI) 贊助。 OpenDDS 網址為[http://www.OpenDDS.org/](http://OpenDDS.org/)。開發人員指南基於 3.10 釋出版本的 OpenDDS。
 
